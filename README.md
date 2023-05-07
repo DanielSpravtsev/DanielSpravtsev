@@ -1,5 +1,5 @@
-## Hey 👋
-## I'm Senior Web Developer & Software Engineer
+# Hey 👋
+## I'm Senior Web Developer
 
 <!--
 - Main stack: TALL (TailwindCSS, AlpineJS, Laravel, Livewire)
