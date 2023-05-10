@@ -10,8 +10,7 @@
 - Tools: VS Code, Notion, Figma
 -->
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=DanielSpravtsev alt=DanielSpravtsev /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=DanielSpravtsev&style=for-the-badge alt=DanielSpravtsev /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=DanielSpravtsev&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/DanielSpravtsev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSpravtsev&layout=compact&count_private=true)](https://github.com/DanielSpravtsev/github-readme-stats)
