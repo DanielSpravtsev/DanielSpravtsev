@@ -1,5 +1,16 @@
+***Hi, I'm Daniel Spravtsev (`spɹeɪvtsev`)! 👋🏻***
+
+I'm a full-stack web developer
+
+I try to make server management more accessible to everyone. 
+
+- I build and maintain customer commercial projects from my [web studio](https://spravtsev.pro/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+- I building deployment SaaS service and soon will be happy to announce this! 🎉
+
+<!--
 # Hey 👋
 ## I'm Senior Web Developer
+-->
 
 <!--
 - Main stack: TALL (TailwindCSS, AlpineJS, Laravel, Livewire)
