@@ -1,11 +1,10 @@
 ***Hi, I'm Daniel Spravtsev (`spɹeɪvtsev`)! 👋🏻***
 
-I'm a full-stack web developer
+I’m a Senior Web Developer dedicated to making server management more accessible to everyone.
 
-I try to make server management more accessible to everyone. 
+Through my [web studio](https://spravtsev.pro/?utm_source=github&utm_medium=profile&utm_campaign=readme), I build and maintain commercial projects for clients.
 
-- I build and maintain customer commercial projects from my [web studio](https://spravtsev.pro/?utm_source=github&utm_medium=profile&utm_campaign=readme)
-- I building deployment SaaS service and soon will be happy to announce this! 🎉
+Currently, I’m developing a deployment SaaS service and look forward to announcing it soon! 🎉
 
 <!--
 # Hey 👋
